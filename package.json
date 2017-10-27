@@ -1,8 +1,8 @@
 {
   "name": "copyshrug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "copies a shruggie ¯\\_(ツ)_/¯",
-  "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
