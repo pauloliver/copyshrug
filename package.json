@@ -1,6 +1,6 @@
 {
   "name": "copyshrug",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "copies a shruggie ¯\\_(ツ)_/¯",
   "bin": "./index.js",
   "scripts": {
