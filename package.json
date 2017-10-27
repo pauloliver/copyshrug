@@ -1,0 +1,26 @@
+{
+  "name": "copyshrug",
+  "version": "1.0.0",
+  "description": "copies a shruggie ¯\\_(ツ)_/¯",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloliver/copyshrug.git"
+  },
+  "keywords": [
+    "shruggie",
+    "shrug"
+  ],
+  "author": "Paul Heimburg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pauloliver/copyshrug/issues"
+  },
+  "homepage": "https://github.com/pauloliver/copyshrug#readme",
+  "dependencies": {
+    "copy-paste": "^1.3.0"
+  }
+}
